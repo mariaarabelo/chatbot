@@ -1,0 +1,14 @@
+venv/
+
+.env
+
+faiss_index/
+
+__pycache__/
+*.pyc
+
+# Ignore files related to Jupyter notebooks (optional)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
